@@ -1,6 +1,6 @@
 /*
 * File: 1-last_digit.c
-* Auth: Joy Bassey 
+* Auth: Joy Bassey
 */
 
 #include <stdlib.h>
