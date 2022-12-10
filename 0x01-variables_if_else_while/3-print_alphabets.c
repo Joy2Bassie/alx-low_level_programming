@@ -1,6 +1,6 @@
-/* 
+/*
 * File: 3-print_alphabets.c
-* Author: Joy Bassey 
+* Author: Joy Bassey
 */
 
 #include <stdio.h>
@@ -18,7 +18,7 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 putchar(ch);
 }
 for (ch = 'A' ; ch <= 'Z' ; ch++)
-{ 
+{
 putchar(ch);
 }
 putchar('\n');
